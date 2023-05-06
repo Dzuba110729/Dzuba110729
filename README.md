@@ -2,11 +2,11 @@
 😎 Я занимаюсь версткой разной сложности и изучаю front-end<br>📚 Обучался front-end в FrontendBlok и Нетология<br>🏄‍♂️ Плаваю на Sup-bord<br>🎥 Снимаю видео и фото про путешествия
 
 ### Примеры моих работ:
-#### - [ Интернет-магазин здорового питания Healthy Food]([https://nancymitt.github.io/Module02-Shop/dist/](https://dzuba110729.github.io/modele02-Shop/dist/))
+#### - [ Интернет-магазин здорового питания Healthy Food](https://dzuba110729.github.io/modele02-Shop/dist/)
 #### - [ Сайт - портфолио web-разработчика]
-#### - [ Блог о творчестве, спорте, и образе жизни][https://dzuba110729.github.io/mq_diplom/]
-#### - [ Юридическая компания][https://dzuba110729.github.io/LogoType/]
-#### - [ Статья о гонках][https://dzuba110729.github.io/Lamba/]
+#### - [ Блог о творчестве, спорте, и образе жизни](https://dzuba110729.github.io/mq_diplom/)
+#### - [ Юридическая компания](https://dzuba110729.github.io/LogoType/)
+#### - [ Статья о гонках](https://dzuba110729.github.io/Lamba/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dzyu_bikkk) [![VK](https://img.shields.io/badge/VK-%231DA1F2.svg?logo=VK&logoColor=white)](https://vk.com/idrnd_1) [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/dz_anti)
