@@ -9,6 +9,7 @@
 #### - [ Статья о гонках](https://dzuba110729.github.io/Lamba/)
 #### - [ Статья о часах](https://dzuba110729.github.io/watch/)
 #### - [ Сайт SabioTrade](https://dzuba110729.github.io/SabioTrade-new/)
+#### - [ Форум Word Hockey](https://dzuba110729.github.io/Word-Hockey-Forum/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dzyu_bikkk) [![VK](https://img.shields.io/badge/VK-%231DA1F2.svg?logo=VK&logoColor=white)](https://vk.com/idrnd_1) [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/dz_anti)
