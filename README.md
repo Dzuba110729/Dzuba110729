@@ -3,6 +3,7 @@
 
 ### Примеры моих работ:
 #### - [ Интернет-магазин здорового питания Healthy Food](https://dzuba110729.github.io/modele02-Shop/dist/)
+#### - [Сайт про коммерческое недвижимое имущество](https://dzuba110729.github.io/CutSpace/)
 #### - [ Сайт - портфолио web-разработчика](https://dzuba110729.github.io/Portfolio/dist/)
 #### - [ Блог о творчестве, спорте, и образе жизни](https://dzuba110729.github.io/mq_diplom/)
 #### - [ Юридическая компания](https://dzuba110729.github.io/LogoType/)
